@@ -4,7 +4,7 @@ public class Demo {
 
 	
 	public void demo() {
-		System.out.println("Sample Demo");
+		System.out.println("Sample Demo - master branch");
 	}
 	
 }
