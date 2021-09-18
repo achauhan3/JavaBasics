@@ -6,6 +6,8 @@ public class ClassExample {
 		
 		System.out.println("Hello World");
 		
+		// Sample added
+		
 	}
 
 }
